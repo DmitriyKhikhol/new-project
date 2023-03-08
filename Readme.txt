@@ -1,6 +1,4 @@
-dfghjkmjnb
-brhetjthjyeth
-12345
+Button
 
 Выберите способ доставки
 
